@@ -1,0 +1,46 @@
+.body
+{
+	background-color:black;
+}
+.navBar
+{
+	width:1170px;
+	height:40px;
+	margin-left:auto;
+	margin-right:auto;
+	background-color:black;
+	margin-bottom:16px;
+	margin-top:16px;
+}
+.navi li
+{
+	display: inline;
+	color: black;
+	line-height:2.5;
+}
+.navi li a
+{
+	text-decoration:none;
+	color:white;
+}
+.navi li a:hover
+{
+	color:teal;
+}
+.footer
+{
+	text-align:center;
+}
+.cert img
+{
+	text-align:center;
+}
+.header
+{
+	text-align:center;
+	margin-bottom:16px;
+}
+.cert
+{
+	text-align:center;
+}
